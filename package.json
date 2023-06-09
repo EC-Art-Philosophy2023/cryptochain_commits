@@ -1,7 +1,7 @@
 {
   "name": "cryptochain_commits",
   "version": "1.0.0",
-  "description": "",
+  "description": "This is a commit-by-commit breakdown of \"Build a Blockchain & Cryptocurrency | Full-Stack Edition\". This will help anyone stuck on a particular lecture. Compare your code to the relevant commit here.",
   "main": "index.js",
   "scripts": {
     "test": "jest --watchAll",
@@ -37,5 +37,13 @@
     "react-router-dom": "^4.3.1",
     "request": "^2.88.0",
     "uuid": "^3.3.2"
-  }
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/EC-Art-Philosophy2023/cryptochain_commits.git"
+  },
+  "bugs": {
+    "url": "https://github.com/EC-Art-Philosophy2023/cryptochain_commits/issues"
+  },
+  "homepage": "https://github.com/EC-Art-Philosophy2023/cryptochain_commits#readme"
 }
