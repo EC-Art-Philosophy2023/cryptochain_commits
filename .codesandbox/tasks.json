@@ -33,7 +33,10 @@
     "dev-peer": {
       "name": "dev-peer",
       "command": "npm run dev-peer",
-      "runAtStart": false
+      "runAtStart": false,
+      "preview": {
+        "port": 3130
+      }
     },
     "build-client": {
       "name": "build-client",
@@ -43,7 +46,10 @@
     "dev-client": {
       "name": "dev-client",
       "command": "npm run dev-client",
-      "runAtStart": false
+      "runAtStart": false,
+      "preview": {
+        "port": 44299
+      }
     },
     "clean": {
       "name": "clean",

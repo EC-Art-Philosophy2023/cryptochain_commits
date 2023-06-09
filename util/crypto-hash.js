@@ -1,5 +1,6 @@
 const crypto = require('crypto');
-
+const hexToBinary = require('hex-to-binary');
+S
 const cryptoHash = (...inputs) => {
   const hash = crypto.createHash('sha256');
 
