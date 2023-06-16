@@ -24,6 +24,7 @@
     "nodemon": "^1.18.4"
   },
   "dependencies": {
+    "alchemy-sdk": "^2.9.0",
     "body-parser": "^1.18.3",
     "elliptic": "^6.4.1",
     "express": "^4.16.3",
